@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"71ccd9421bacd202","type":"file","file":"Attachment/Pasted image 20240816151033.png","x":-38,"y":-180,"width":648,"height":509},
+		{"id":"a0e1bd1bb5ddefd7","type":"file","file":"Attachment/Pasted image 20240816151138.png","x":-774,"y":-180,"width":736,"height":509},
+		{"id":"72a50e22a769a99f","type":"text","text":"款选的两个立方体的顶点处于同一位置","x":-565,"y":334,"width":405,"height":97},
+		{"id":"15391b36a8a9d595","type":"text","text":"通过顶点技术，我们可以看到由于相同位置的顶点被合并所以少了两个顶点","x":84,"y":329,"width":405,"height":139},
+		{"id":"f140c8f3238708cc","type":"file","file":"Attachment/Pasted image 20240816151530.png","x":-774,"y":533,"width":647,"height":504},
+		{"id":"ff9a01f996bda002","type":"text","text":"两个有一定距离的棱角球","x":-652,"y":1038,"width":405,"height":97},
+		{"id":"17c003cccc3c4194","type":"file","file":"Attachment/Pasted image 20240816151644.png","x":-125,"y":533,"width":648,"height":511},
+		{"id":"84d1f929d745cfc5","type":"text","text":"当我调大距离值时，当两个点的距离小于这个数值时就会被合并","x":-4,"y":1044,"width":405,"height":138},
+		{"id":"f843e196ca99425e","type":"file","file":"Attachment/Pasted image 20240816151733.png","x":523,"y":541,"width":649,"height":503},
+		{"id":"771a0d39c3ce47c7","type":"text","text":"当我将模式改为相连项时，则分离的物体直接无法合并","x":645,"y":1044,"width":405,"height":138},
+		{"id":"650626ba8d515037","type":"file","file":"Attachment/Pasted image 20240816151852.png","x":1172,"y":540,"width":648,"height":504},
+		{"id":"5aa97f4624080a96","type":"text","text":"当我再调高距离数值时，物体上相连的顶点且距离小于这个数值的顶点相互合并。","x":1225,"y":1046,"width":405,"height":169}
+	],
+	"edges":[]
+}

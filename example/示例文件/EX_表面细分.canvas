@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"959d62d7ff1a3d85","type":"group","x":-680,"y":620,"width":3000,"height":1732,"label":"UV平滑"},
+		{"id":"caf8fe590ceb9e37","type":"file","file":"Attachment/Pasted image 20240816204305.png","x":-660,"y":-420,"width":980,"height":767},
+		{"id":"77b64121c92f0312","type":"text","text":"表面细分3级","x":-295,"y":347,"width":250,"height":60},
+		{"id":"68b1306886110dca","type":"file","file":"Attachment/Pasted image 20240816204333.png","x":320,"y":-420,"width":985,"height":767},
+		{"id":"339e9ff7d9feb9a2","type":"text","text":"如果“折痕边”设置的值越大，就越靠近原始边缘。当值为1，则边恢复到源位置","x":601,"y":342,"width":339,"height":98},
+		{"id":"03de4e16330eb50d","type":"file","file":"Attachment/Pasted image 20240816204517.png","x":1305,"y":-420,"width":984,"height":767},
+		{"id":"0bb64ac7ab94f2d0","type":"text","text":"如果“顶点折痕”设置的值越大，就越靠近原始顶点。当值为1，则顶点恢复到源位置","x":1580,"y":347,"width":339,"height":98},
+		{"id":"e100d2f12e6a7029","type":"file","file":"Attachment/Pasted image 20240816205825.png","x":1311,"y":645,"width":984,"height":767},
+		{"id":"25a0d49b84b0f717","type":"file","file":"Attachment/Pasted image 20240816205953.png","x":1320,"y":1560,"width":980,"height":769},
+		{"id":"a4281aa2b5d2b1a8","type":"file","file":"Attachment/Pasted image 20240816205549.png","x":-654,"y":640,"width":980,"height":758},
+		{"id":"60e446f239fb49cc","type":"file","file":"Attachment/Pasted image 20240816205739.png","x":326,"y":645,"width":985,"height":764},
+		{"id":"e1a04186774dac25","type":"file","file":"Attachment/Pasted image 20240816205836.png","x":-660,"y":1560,"width":993,"height":772},
+		{"id":"0fc969c85c09da71","type":"file","file":"Attachment/Pasted image 20240816205941.png","x":333,"y":1560,"width":987,"height":769}
+	],
+	"edges":[]
+}

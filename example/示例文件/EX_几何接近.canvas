@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ede5958080827f65","type":"file","file":"Attachment/Pasted image 20240816173439.png","x":-600,"y":-380,"width":740,"height":600},
+		{"id":"e27f60ff471a2d3e","type":"text","text":"这里有有个棱角球和一个平面","x":-355,"y":220,"width":250,"height":60},
+		{"id":"b3838163effe3b5e","type":"file","file":"Attachment/Pasted image 20240816173630.png","x":140,"y":-380,"width":740,"height":602},
+		{"id":"5cb50ea38f081e22","type":"text","text":"由于距离超过1，所以我用了运算节点把距离值缩小，可以看出离棱角球越远，越白，中间是一个灰色的过度，说明是介于0-1之间的值（距离越远越白，值越大，距离大等于1为白色）","x":280,"y":222,"width":500,"height":98},
+		{"id":"ce080cfb29211279","type":"file","file":"Attachment/Pasted image 20240816175306.png","x":140,"y":1100,"width":740,"height":600},
+		{"id":"164356235a54f041","type":"file","file":"Attachment/Pasted image 20240816175328.png","x":-600,"y":1101,"width":740,"height":599},
+		{"id":"7969ad787135b4fb","type":"text","text":"这里有三个面，第三个面的话其实是和第二个面重叠的，我给了偏移好观察之间的关系","x":-445,"y":1700,"width":430,"height":59},
+		{"id":"c6dc4851f06a4109","type":"file","file":"Attachment/Pasted image 20240816175025.png","x":140,"y":1800,"width":739,"height":600},
+		{"id":"60aa5b7b816e1ab3","type":"text","text":"不同的颜色代表不同的顶点，该点到目标'面'最近的点，在域为面的情况下，每个点都会找最接近的位置，如就算目标平面没有中心，但是源平面的中心点还是会对着目标平面的中心，边也一样","x":258,"y":2400,"width":504,"height":108},
+		{"id":"e0e4e4d5e7d33438","type":"text","text":"域为面的情况下","x":-740,"y":2041,"width":140,"height":59},
+		{"id":"f896be41b8c4d329","type":"file","file":"Attachment/Pasted image 20240816174649.png","x":-600,"y":1800,"width":739,"height":600},
+		{"id":"481e39610b288ace","type":"text","text":"这里有三个面，第三个面的话其实是和第二个面重叠的，我给了偏移好观察之间的关系","x":-445,"y":2400,"width":430,"height":59},
+		{"id":"652ec225521ced02","type":"text","text":"域为线的情况下","x":-740,"y":1371,"width":140,"height":59},
+		{"id":"3601c50f1cdb77aa","type":"text","text":"不同的颜色代表不同的顶点，该点到目标'边'最近的点，在域为线的情况下，每个点都会找最接近点或边的位置，可以看到源平面的中心点由于目标的面中心没有点和线，所以他就取了在目标的最接近的边和点上的点，如绿色圈所示","x":220,"y":1692,"width":540,"height":108},
+		{"id":"2a52d94cff51e51e","type":"file","file":"Attachment/Pasted image 20240816175703.png","x":140,"y":360,"width":740,"height":600},
+		{"id":"24f9c4160f9b2ed4","type":"file","file":"Attachment/Pasted image 20240816175723.png","x":-600,"y":360,"width":740,"height":604},
+		{"id":"ceff2f0a3012b5b7","type":"text","text":"域为点的情况下","x":-740,"y":631,"width":140,"height":59},
+		{"id":"0992c95502fc2bbe","type":"text","text":"这里有三个面，第三个面的话其实是和第二个面重叠的，我给了偏移好观察之间的关系。","x":-445,"y":964,"width":430,"height":59},
+		{"id":"c4ce6bbe8c86e7c2","type":"text","text":"源平面为3x3的顶点\n目标平面为2x2的顶点","x":-820,"y":740,"width":220,"height":80},
+		{"id":"3e9a4866c399dbf8","type":"text","text":"不同的颜色代表不同的顶点，该点到目标'顶'最近的点，在域为点的情况下，每个点都会找最接近点的位置，可以看到源平面的中心点和边中点由于目标的面中心和边没有点，所以他就取了在目标的最接近的点上的点，如绿色圈和蓝色圈所示，之所以绿色在最终面上圈了4个，是表示可能取得点位置得点，而不是四个点都是。","x":160,"y":960,"width":720,"height":108}
+	],
+	"edges":[]
+}

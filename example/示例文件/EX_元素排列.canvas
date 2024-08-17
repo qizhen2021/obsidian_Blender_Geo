@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"7c81b48cf828271d","type":"group","x":-708,"y":660,"width":2408,"height":2061,"label":"选中项"},
+		{"id":"eb6a941092346281","type":"group","x":-700,"y":-520,"width":2400,"height":1058,"label":"排序权重"},
+		{"id":"1d6e6a40b7fcc38e","type":"group","x":-708,"y":2840,"width":2386,"height":956,"label":"群组ID"},
+		{"id":"7a76b00da016fbef","type":"file","file":"Attachment/Pasted image 20240816200038.png","x":500,"y":-500,"width":1180,"height":916},
+		{"id":"524ecebe2eb73d6f","type":"text","text":"从图中可以看出，我将序号根据位置的Y轴作为排序权重进行编号重新排序。所以编号顺序从负y轴到正y轴递增排序","x":798,"y":416,"width":562,"height":102},
+		{"id":"2ef1e8e144d4e3c9","type":"file","file":"Attachment/Pasted image 20240816194345.png","x":-680,"y":-500,"width":1180,"height":916},
+		{"id":"d1fe53b647005800","type":"text","text":"这是一个6x6的栅格平面，并且显示点的编号","x":-260,"y":416,"width":300,"height":84},
+		{"id":"8adcdc7b76e0b1be","type":"file","file":"Attachment/Pasted image 20240816201146.png","x":-685,"y":680,"width":1185,"height":917},
+		{"id":"063d71135253485f","type":"file","file":"Attachment/Pasted image 20240816200930.png","x":500,"y":680,"width":1180,"height":917},
+		{"id":"7c9bf0578c0f6651","type":"text","text":"顶点原本的编号","x":-260,"y":1597,"width":250,"height":60},
+		{"id":"e1515a4301d3d584","type":"text","text":"排序后的编号","x":880,"y":1597,"width":250,"height":60},
+		{"id":"91815af61821e13e","type":"file","file":"Attachment/Pasted image 20240816201008.png","x":-688,"y":1720,"width":1180,"height":920},
+		{"id":"6516a927572069fc","type":"file","file":"Attachment/Pasted image 20240816201048.png","x":492,"y":1720,"width":1188,"height":920},
+		{"id":"48afa866f9b24c7b","type":"text","text":"白色为选中项","x":-223,"y":2637,"width":250,"height":60},
+		{"id":"ca35a7e27ca17f15","type":"text","text":"只有选中项进行了重新排序","x":834,"y":2651,"width":278,"height":50},
+		{"id":"66993c3ab5daf34f","type":"file","file":"Attachment/Pasted image 20240816201712.png","x":481,"y":2860,"width":1177,"height":916},
+		{"id":"4402ad6683cee6b4","type":"file","file":"Attachment/Pasted image 20240816202315.png","x":-688,"y":2860,"width":1169,"height":720},
+		{"id":"9bf400b79ec4337d","type":"text","text":"从电子表格中可以看出黑为0，白为1，所以这样输入群组ID接口，被分成0和1两个群组ID，所以作为0和1两个群组分别重新排序编号。","x":-380,"y":3580,"width":700,"height":196}
+	],
+	"edges":[]
+}

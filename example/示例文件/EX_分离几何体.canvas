@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8538dae564f29788","type":"file","file":"Attachment/Pasted image 20240816164103.png","x":-460,"y":511,"width":836,"height":680},
+		{"id":"93191425c41294ee","type":"file","file":"Attachment/Pasted image 20240816164125.png","x":377,"y":511,"width":836,"height":681},
+		{"id":"bff703e3b64f0eb5","type":"file","file":"Attachment/Pasted image 20240816164141.png","x":1214,"y":511,"width":834,"height":681},
+		{"id":"ea390afdacfbe33c","type":"text","text":"设置为“点”的域类型根据点将其分开。这删除了连接选定几何和反相几何的边和面。如您所见，这会导致松散的边缘和顶点。","x":-323,"y":1191,"width":565,"height":167},
+		{"id":"1ebcdc517c065a66","type":"text","text":"设置为“边”的域类型根据边将其分开。这样只删除了连接选定几何和反相几何的面。如您所见，这会导致松散的边缘和顶点。","x":512,"y":1191,"width":566,"height":154},
+		{"id":"2da5322dc72f5dae","type":"text","text":"设置为“面”的域类型根据面将其分开。这仅删除连接选定几何和反相几何的面。如您所见，这不会留下松散的顶点和边。","x":1371,"y":1191,"width":521,"height":169},
+		{"id":"561c17cadfcd1689","type":"text","text":"通过噪波遮罩随机选择","x":619,"y":399,"width":353,"height":85},
+		{"id":"212b0969c42a701f","type":"file","file":"Attachment/Pasted image 20240816164041.png","x":376,"y":-280,"width":837,"height":678}
+	],
+	"edges":[]
+}

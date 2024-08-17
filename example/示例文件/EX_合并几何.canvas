@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ca3264bf35dc592d","type":"file","file":"Attachment/Pasted image 20240816132107.png","x":-640,"y":-220,"width":827,"height":656},
+		{"id":"3430e08c004a02e7","type":"text","text":"立方体A","x":-485,"y":436,"width":517,"height":124},
+		{"id":"9ca549feb2f5fe44","type":"file","file":"Attachment/Pasted image 20240816132130.png","x":188,"y":-220,"width":828,"height":643},
+		{"id":"2856c4bf14ea034c","type":"text","text":"立方体B","x":344,"y":424,"width":517,"height":124},
+		{"id":"582e43c1b8f3def0","type":"file","file":"Attachment/Pasted image 20240816132154.png","x":1015,"y":-220,"width":828,"height":643},
+		{"id":"3961408f06a504a5","type":"text","text":"立方体A和B组合在一起","x":1171,"y":424,"width":517,"height":124}
+	],
+	"edges":[]
+}

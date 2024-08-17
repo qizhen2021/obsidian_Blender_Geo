@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"027c50f012a8c671","type":"file","file":"Attachment/Pasted image 20240816141104.png","x":-640,"y":-140,"width":717,"height":564},
+		{"id":"3f573803ce4da106","type":"text","text":"这是一个棱角球","x":-506,"y":425,"width":448,"height":108},
+		{"id":"1763bb4a8e8a6781","type":"file","file":"Attachment/Pasted image 20240816141152.png","x":77,"y":-135,"width":717,"height":559},
+		{"id":"37c59d54b9c0b72f","type":"text","text":"当没有接入选择时，就是默认全部删除（即选中项全部默认1）","x":211,"y":425,"width":448,"height":152},
+		{"id":"f25bd6b2b59f3ad2","type":"file","file":"Attachment/Pasted image 20240816141442.png","x":794,"y":-133,"width":715,"height":557},
+		{"id":"a637529cca101ddd","type":"file","file":"Attachment/Pasted image 20240816141337.png","x":1511,"y":-133,"width":715,"height":559},
+		{"id":"0ea8628dba300ff8","type":"text","text":"则遮罩为白色的部分（即数值为1）就会被删除","x":1645,"y":426,"width":448,"height":108},
+		{"id":"050d421da01fb158","type":"text","text":"遮罩被选中的部分为白色（即为1）没被选中的部分为黑色（即为0）","x":901,"y":426,"width":448,"height":151},
+		{"id":"5a6f882265e628d3","type":"file","file":"Attachment/Pasted image 20240816141713.png","x":77,"y":684,"width":717,"height":565},
+		{"id":"3f11592e96538b62","type":"file","file":"Attachment/Pasted image 20240816141726.png","x":-640,"y":684,"width":717,"height":568},
+		{"id":"ce61853a7ec1c717","type":"file","file":"Attachment/Pasted image 20240816141736.png","x":794,"y":690,"width":717,"height":557},
+		{"id":"e053e03cf4277f5b","type":"text","text":"删除网格的每个部分","x":-506,"y":1249,"width":448,"height":108},
+		{"id":"fbc91f068f337a47","type":"text","text":"只删除边和面，留下松散的顶点","x":211,"y":1252,"width":448,"height":108},
+		{"id":"3abef9536b9d4544","type":"text","text":"只删除面，只留下边和顶点","x":901,"y":1247,"width":448,"height":108}
+	],
+	"edges":[]
+}

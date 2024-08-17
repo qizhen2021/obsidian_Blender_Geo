@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d319cb2cec020705","x":-760,"y":-400,"width":1026,"height":800,"type":"file","file":"Attachment/Pasted image 20240816210825.png"},
+		{"id":"fcb4693572edb5d6","x":-372,"y":400,"width":250,"height":60,"type":"text","text":"未细分的网格"},
+		{"id":"46c8dd898f629fef","x":266,"y":-400,"width":1029,"height":800,"type":"file","file":"Attachment/Pasted image 20240816210854.png"},
+		{"id":"e7a76fe34c5b39b2","x":656,"y":400,"width":250,"height":60,"type":"text","text":"细分级别1的网格"}
+	],
+	"edges":[]
+}

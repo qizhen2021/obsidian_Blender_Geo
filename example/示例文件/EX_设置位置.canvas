@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2f71cc44fa099cc3","type":"file","file":"Attachment/Blender/示例文件/EX_设置位置/IMG-20240816131435811.png","x":-300,"y":-220,"width":534,"height":418},
+		{"id":"47a951e9a0522b35","type":"file","file":"Attachment/Blender/示例文件/EX_设置位置/IMG-20240816131435839.png","x":235,"y":-220,"width":535,"height":420},
+		{"id":"63fa08ef84281b4c","type":"text","text":"从细分平面开始","x":-200,"y":200,"width":334,"height":80},
+		{"id":"9eb060c27f08253c","type":"text","text":"在平面上预览遮罩","x":342,"y":200,"width":334,"height":80},
+		{"id":"c6d3e5c681ec6c69","type":"file","file":"Attachment/Blender/示例文件/EX_设置位置/IMG-20240816131435855.png","x":770,"y":-220,"width":535,"height":421},
+		{"id":"6593b338a5cce7ba","type":"text","text":"每个白色部分都受设置位置节点的影响","x":870,"y":200,"width":334,"height":80}
+	],
+	"edges":[]
+}
